@@ -1,0 +1,1 @@
+This is a real sales data set of a UK based retailer , all the transaction occurring between 01/12/2010 and 09/12/2011 for a UK - bases , the company mainly sells unique all - occasion gists . many customers of the company are wholeselers.¶
