@@ -6,7 +6,7 @@ This project aims to analyze customer behavior and segment customers based on RF
 
 
 ## Data Source
-The dataset used in this project is sourced from the UCI Machine Learning Repository.
+The dataset used in this project is sourced from the UCI Machine Learning Repository.(https://archive.ics.uci.edu/dataset/352/online+retail)
 
 
 ## Approach
