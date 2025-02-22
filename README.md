@@ -43,4 +43,4 @@ The UK alone contributes to 82% of total revenue, indicating the importance of t
 * Cluster 1 may already be dominated by others. Increase sales in clusters 0 & 2 through suitable competitive positioning, pricing strategy, cohesive sales & marketing efforts, promotions, bundling, etc. Additionally, focus on increasing sales in cluster 1 through suitable marketing efforts, promotions, and bundling.
 * Customer segments 0 & 2 have opportunities for growth and future expansion.
 ## Contributing
-* Contributions to improve the analysis techniques, expand insights, or optimize the code are welcome. 
+* Contributions to improve the analysis techniques, expand insights, or optimize the code are welcome.
