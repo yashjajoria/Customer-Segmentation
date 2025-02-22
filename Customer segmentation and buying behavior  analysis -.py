@@ -537,7 +537,7 @@ dataset2.head(5)
 # The senior management for the retail company should consider expanding to the other countries (fter UK) where they have significant sales such as Neatherland, EIRE, Germany & France for future geographic expansion.
 
 # In[ ]:
-
+..
 
 
 
